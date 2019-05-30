@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My Summer in Portugal</title>
-    <link>http://example.org/posts/</link>
+    <link>https://katherinesmith23.github.io/posts/</link>
     <description>Recent content in Posts on My Summer in Portugal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 May 2019 12:57:13 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://katherinesmith23.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My Second Post</title>
-      <link>http://example.org/posts/my-second-post/</link>
+      <link>https://katherinesmith23.github.io/posts/my-second-post/</link>
       <pubDate>Wed, 29 May 2019 12:57:13 +0100</pubDate>
       
-      <guid>http://example.org/posts/my-second-post/</guid>
+      <guid>https://katherinesmith23.github.io/posts/my-second-post/</guid>
       <description>Hello everyone! I would just like for y&amp;rsquo;all all to know that class is going well, and I have finally figured out how to upload a blog!! While this blog may look very very simple, it has taken years, so everyone please appreciate its beauty.</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://katherinesmith23.github.io/posts/my-first-post/</link>
       <pubDate>Tue, 28 May 2019 21:43:05 +0100</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://katherinesmith23.github.io/posts/my-first-post/</guid>
       <description>After 20 hours of travel, I finally arrived in Lisbon for the next 7 weeks of my summer. We arrived at the hotel at 11:00am, and after some quick unpacking, we immediately set out to explore Lisbon. The first weekend was spent walking around this incredibly hilly city and trying amazing, tiny restaurants.</description>
     </item>
     
